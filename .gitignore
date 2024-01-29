@@ -3351,3 +3351,4 @@ source_code/raisimLib/thirdParty/pybind11/tools/setup_global.py.in
 source_code/raisimLib/thirdParty/pybind11/tools/setup_main.py.in
 activation_key/activation.raisim
 source_code/raisimLib/raisimGymTorch/raisimGymTorch/env/envs/.gitignore
+source_code/raisimLib/raisimGymTorch/raisimGymTorch/env/envs/.gitignore
