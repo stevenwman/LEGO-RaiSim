@@ -42,6 +42,9 @@
         <mesh
           filename="base_link.obj" />
       </geometry>
+      <material name="rubber">
+            <contact name="rubber"/>
+      </material>
     </collision>
   </link>
   <link
@@ -82,6 +85,9 @@
         <mesh
           filename="Empty_Link.obj" />
       </geometry>
+      <material name="rubber">
+            <contact name="rubber"/>
+      </material>
     </collision>
   </link>
   <joint
